@@ -34,4 +34,4 @@ Team Yuja
 India
 ---
 
-🔗 **Learn More**: [Yuja Website](www.meiro.in)  
+🔗 **Learn More**: [Yuja Website](https://www.meiro.in)
