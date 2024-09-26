@@ -1,4 +1,4 @@
-# Yuja Mobility Platform
+# Yuja - Modern and Sustainable Urban Rides Platform
 
 **Welcome to Yuja!** We're revolutionizing paratransit with a modern, technology-driven platform that reimagines how auto-rickshaws, shuttles, and informal transport systems operate. Yuja empowers drivers and passengers alike by making it easier, faster, and more sustainable to manage and access street-hail and app-hail rides.
 
